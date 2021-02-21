@@ -6,7 +6,7 @@ During the time of this blog being written, we are currently on the learning our
 During this week, I worked on how to connect my web application to my Firebase project. The steps were simple just copy the code they provide to you on the site right into your index.html file before the ```</body>``` code. After pasting that code in, my web application is sucessfully linked with my firebase project. This site that I created this week was just a test site to see if everything would function as it intended.
 
 ![code](/img/code.JPG "code")
-![firebase](/img/Capture.JPG "firebase")
+
 
 In addition to learning Firebase, I also had to learn a bit of Javascript since JS is an essential part of web applications. Learning JS wouldn't be that diffcult since there are many videos and gudies online for me to choose from. Like this [video](https://www.youtube.com/watch?v=7NPcZSrcA5o&t=532s) or going on this [site](https://www.codecademy.com/learn/introduction-to-javascript) for some real practice. JS basically allows me to create a more interactive web page since html and css just helps with what the website would look like not how it will work.
 
