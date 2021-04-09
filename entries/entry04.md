@@ -9,7 +9,7 @@ For testing purposes, I made a simple web app with 5 different text-boxes and on
 
 This line of code is what allows our app to connect to our firebase project's database.
 ```
- <script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-database.js"></script>
+ <script src="https://www.gstatic.com/firebasejs/8.3.3/firebase-database.js"></script>
 ```
 
 The JavaScript client SDK code which allows us to use firebase.
